@@ -1,0 +1,11 @@
+Equipe:
+Mariana Carneiro - 2219168
+Teresa Vitória - 2210385
+
+Link do Replit:
+https://replit.com/@marianacbm2003/AV3-mandar#Importante.txt
+
+Como usar:
+1 - Clique em 'Shell'
+2 - Digite 'cd financeiro'
+3 - Digite 'lein run'
