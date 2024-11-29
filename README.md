@@ -26,22 +26,13 @@ Cada bloco possui:
   - Gerador de hashes (exemplo: [Gerador SHA-256 online](https://www.browserling.com/tools/sha256)).
   - Simulador de blockchain (opcional).
 
-## Estrutura do Repositório
-- **`src/`**: Contém os arquivos de código-fonte:
-  - `blockchain.clj`: Implementação da blockchain.
-  - `finance-manager.clj`: Código do gerenciador financeiro.
-  - `api.clj`: Endpoints da API.
-- **`docs/`**: Documentação do projeto, incluindo requisitos e especificações.
-- **`tests/`**: Scripts de testes automatizados.
-- **`README.md`**: Detalhes e instruções para configuração e uso.
-
 ## Instalação e Execução
 1. Certifique-se de ter o [Leiningen](https://leiningen.org/) instalado.
 2. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/blockchain-gerenciador-financeiro-clojure.git
 3. Navegue até o diretório:
-   cd blockchain-gerenciador-financeiro-clojure
+   cd financeiro
 4. Execute o projeto:
    lein run
 
